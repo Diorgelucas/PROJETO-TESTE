@@ -1,0 +1,82 @@
+body {
+    padding: 15px;
+    margin: 5px;
+    background: url("../Projeto-perfil-growdev/../img/background.jpg")  fixed;
+    background-size: cover;
+
+
+
+}
+    
+
+#descrição {
+    color: rgb(203, 224, 204);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 15rem;
+}
+#Titulo {
+ 
+    font-size: 100px;
+    
+
+}
+
+#Nome {
+     margin-right: 27rem;
+     margin-bottom: -5rem;
+     padding-top: 70px;
+     font-size: 50px;
+     color:rgb(241, 176, 122);
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     
+}
+
+#idade {
+    margin-left: -15rem;
+    font-size: 25px;
+    color: beige;
+    text-align: start;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: url(../Projeto-perfil-growdev/po);
+    
+}
+
+#imagem {
+    margin-left: -17rem;
+}
+#PERFIL {
+    margin-right: 40rem;
+    padding-top: 100px;
+    padding-top: 12rem;
+}
+#Texto-perfil {
+ 
+    padding-top: 4rem;
+    color: aliceblue;
+    text-align: justify;
+    font-size: 28px;
+    padding-left: 60px;
+    padding-right: 60px;
+    
+}
+#coluna2{
+    padding-top: 3rem;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    
+}
+#coluna3 {
+    padding-top: 3rem;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 5px;
+    
+}
+#Tudo {
+    margin-top: 12rem;
+}
+#perfil-growdev {
+    margin-top: 3rem;
+}
